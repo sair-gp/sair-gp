@@ -28,8 +28,8 @@ I enjoy working across the full stack, from crafting responsive frontends to dev
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sair-gp&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sair-gp&layout=compact&theme=tokyonight)
 
 ---
 

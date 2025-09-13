@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**sair-gp/sair-gp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatics Technician (TSU) | 💻 Web Developer  
 
-Here are some ideas to get you started:
+I’m passionate about building functional and user-friendly web applications.  
+I enjoy working across the full stack, from crafting responsive frontends to developing reliable backends.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technologies & Tools
+
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React  
+- **Backend:** PHP, Python  
+- **Libraries & Frameworks:** Bootstrap, jQuery  
+- **Other:** Git, MySQL, REST APIs  
+
+---
+
+## 📂 Featured Projects
+
+- 🚀 **Library Management System**  
+  Web application for managing library services: book loans, cataloging, attendance tracking, and more.  
+  *Tech stack:* HTML, CSS, JavaScript, PHP, MySQL  
+
+- ✨ *(More projects coming soon...)*  
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 How to reach me
+
+- [LinkedIn](https://linkedin.com/in/your-linkedin)  
+- [Email](mailto:your@email.com)  
+
+---
+
+⭐️ *Always eager to learn, collaborate, and grow as a developer.*

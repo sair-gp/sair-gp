@@ -29,8 +29,8 @@ I enjoy working across the full stack, from crafting responsive frontends to dev
   
 ## 📫 How to reach me
 
-- [LinkedIn](https://linkedin.com/sair-bermudez)  
-- [Email](mailto:sair-bermudez@protonmail.com)  
+- [LinkedIn](https://linkedin.com/in/sair-bermudez)  
+- [Email](mailto:sair.bermudez@protonmail.com)  
 
 ---
 

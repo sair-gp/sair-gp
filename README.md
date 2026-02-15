@@ -22,22 +22,16 @@ I enjoy working across the full stack, from crafting responsive frontends to dev
   Web application for managing library services: book loans, cataloging, attendance tracking, and more.  
   *Tech stack:* HTML, CSS, JavaScript, PHP, MySQL  
 
-- ✨ *(More projects coming soon...)*  
+- ✨ *(More projects coming soon...)*
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sair-gp&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sair-gp&layout=compact&theme=tokyonight)
-
----
-
+  
 ## 📫 How to reach me
 
-- [LinkedIn](https://linkedin.com/in/your-linkedin)  
-- [Email](mailto:your@email.com)  
+- [LinkedIn](https://linkedin.com/sair-bermudez)  
+- [Email](mailto:sair-bermudez@protonmail.com)  
 
 ---
 
-⭐️ *Always eager to learn, collaborate, and grow as a developer.*
+ *Always eager to learn, collaborate, and grow as a developer.*

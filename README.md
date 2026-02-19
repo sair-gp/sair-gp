@@ -1,67 +1,58 @@
-# Hi there, I'm Sair 👋
+Hi there, I'm Sair 👋
 
-🎓 Informatics Technician (TSU) | 💻 Web Developer  
+Informatics Technician (TSU) | Full-Stack Web Developer
 
-I’m passionate about building functional and user-friendly web applications.  
-I enjoy working across the full stack, from crafting responsive frontends to developing reliable backends.  
+I am a developer focused on building practical, reliable applications. I enjoy the challenge of solving logic-based problems and am dedicated to writing code that addresses real-world needs.
 
----
+🔧 Technologies & Tools
 
-## 🔧 Technologies & Tools
+Backend & Logic: PHP, Python, MySQL, REST APIs
 
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, React  
-- **Backend:** PHP, Python  
-- **Libraries & Frameworks:** Bootstrap, jQuery  
-- **Other:** Git, MySQL, REST APIs  
+Frontend & State: TypeScript, React, JavaScript, HTML5, CSS3
 
----
+Tools & Frameworks: Git, Bootstrap, jQuery
 
-## 📂 Featured Projects
+📂 Featured Projects
 
-🛡️ LCA - Advanced Library Management System
+🛡️ LCA — Advanced Library Management System
 
-A full-scale MVC ecosystem designed to optimize librarian workflows and physical inventory logistics.
+A full-scale web application designed to optimize librarian workflows and physical inventory logistics.
 
-    Architectural Discipline: Built with Vanilla PHP following the MVC pattern to ensure a clean separation of concerns and long-term maintainability.
+Architecture: Built with Vanilla PHP using the MVC pattern to ensure a clean separation of concerns and system maintainability.
 
-    Physical Inventory Logic: Engineered a dynamic shelving module featuring Dewey Decimal Classification and a real-time shelf-preview UI for precise physical location tracking.
+Inventory Mapping: Developed a shelving module based on Dewey Decimal Classification with a shelf-preview UI for location tracking.
 
-    Data Integrity & Standards: Implemented strict validation for ISBN-10 and ISBN-13 checksums, ensuring international registration standards.
+Data Validation:Implemented ISBN-10 and ISBN-13 checksum validation to adhere to international registration standards.
 
-    Intelligent Entity Mapping: * Designed a Book-Volume inheritance model, allowing individual tracking of physical copies (condition, status) separate from global metadata.
+Relational Modeling: Designed a Book-Volume inheritance model, allowing copy-specific data to be tracked independently of global metadata.
 
-        Integrated Wikipedia Scraping API to automatically populate author biographies and imagery, reducing manual data entry by 80%.
+Data Integration: Integrated the Wikipedia API to fetch author biographies and imagery, automating part of the cataloging process.
 
-    Operational Control: * Circulation Engine: Configurable rules for loans, renewals, and multi-currency penalty systems.
+Circulation: Developed a ruleset for loans and renewals, including a multi-currency penalty system.
 
-        Audit & Intelligence: Comprehensive logging of all system actions and dynamic report generation (Popularity, Attendance, Inventory).
+Reporting: Created an activity log and dynamic report generation for inventory and attendance metrics.
 
-        Disaster Recovery: Automated scheduled database backups.
+Tech Stack: PHP, MySQL, JavaScript, Bootstrap, Wikipedia API.
 
-Tech Stack: PHP, MySQL, JavaScript, Bootstrap, Wikipedia API. 
-
-🎸 Stratum - Keyboard-First Guitar Tab Editor
+🎸 Stratum — Keyboard-First Guitar Tab Editor
 
 A high-performance, shortcut-driven web workstation for guitarists who value speed and precision.
 
-    Keyboard-First UX: Engineered for a pure keyboard workflow, eliminating mouse-latency. Features a fully customizable shortcut engine allowing users to map their own input preferences.
+Keyboard-First UX: Developed a keyboard-centric interface with a custom shortcut engine to minimize mouse usage during data entry.
 
-    The "ASCII Washer": A custom-built heuristic parser designed to salvage and reformat legacy ASCII tabs with 70–80% accuracy, translating unstructured text into structured React state.
+ASCII Parser: Built a custom "Washer" to reformat unstructured legacy ASCII tab text into a structured React state.
 
-    Lossless Serialization: Implemented a proprietary ASCII export/import format that guarantees 100% data integrity for native files.
+Serialization: Implemented a lossless export/import format to maintain 100% data integrity for native files.
 
-    State & Persistence: Leveraged TypeScript for robust state management of complex tab grids and utilized Local Storage for persistent, serverless data retention.
+State Management: Managed complex tab grids using TypeScript and utilized the Local Storage API for serverless data retention.
 
-    Open Source & Zero Friction: Built with a "tool-first" philosophy—no logins, no ads, no tracking.
+Philosophy: Built as an open-source, zero-friction tool with no ads or mandatory logins.
 
----
+Tech Stack: React, TypeScript, Tailwind.
 
-  
-## 📫 How to reach me
+📫 Contact & Connections
 
-- [LinkedIn](https://linkedin.com/in/sair-bermudez)  
-- [Email](mailto:sair.bermudez@protonmail.com)  
+[LinkedIn](https://linkedin.com/in/sair-bermudez)  
+[Email](mailto:sair.bermudez@protonmail.com)  
 
----
-
- *Always eager to learn, collaborate, and grow as a developer.*
+Always focused on learning, collaborating, and engineering better solutions.

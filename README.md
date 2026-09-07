@@ -21,6 +21,6 @@ Tools & Other
 Git · GitHub · Web Scraping · LocalStorage
 
 📂 What I've Built
-I enjoy building things that solve problems I'm interested in—from library management systems to tools for musicians.
+I enjoy building things that solve problems I'm interested in. From library management systems to tools for musicians.
 
 Feel free to check out my repositories!
